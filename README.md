@@ -98,3 +98,9 @@ that scope is promised.
 - **MCP client cannot connect** — make sure the `args` path in your
   client config is the absolute path to `run_server.py`, and that
   `python` resolves to Python 3.10+.
+
+## More from us
+
+This package is one piece of a broader verifiable-agent toolkit. The official
+site — with the full works catalog and background — lives at
+[huodouai.com](https://www.huodouai.com/works/sop-mcp-test-v0.1.html).

@@ -104,3 +104,9 @@ that scope is promised.
 This package is one piece of a broader verifiable-agent toolkit. The official
 site — with the full works catalog and background — lives at
 [huodouai.com](https://www.huodouai.com/works/sop-mcp-test-v0.1.html).
+
+## License
+
+MIT — see [LICENSE](LICENSE). The evaluation-period terms in SCOPE.md apply on
+top of it for the trial gate; the managed production version is licensed
+separately.

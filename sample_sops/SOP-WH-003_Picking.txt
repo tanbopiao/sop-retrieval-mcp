@@ -1,0 +1,23 @@
+SOP-WH-003: ORDER PICKING PROCEDURE
+Version: 3.1
+Effective Date: 2026-10-01
+Supersedes: Version 3.0 dated 2026-05-20
+
+1. PURPOSE
+This procedure defines how operators pick items for customer orders.
+
+2. PICKING METHOD
+2.1 Batch picking is the default method. The system groups up to 8 orders per pick cart.
+2.2 Scan the location barcode before touching the product. If the scan fails twice, key in the location code manually and report the faulty barcode at the end of the shift.
+2.3 Pick the quantity shown on the scanner. If the location holds less stock than required, pick what is available and mark the line short. Do not substitute items from another location without supervisor approval.
+
+3. COLD CHAIN
+3.1 Chilled picks must be completed within 30 minutes of cart assignment. Return uncompleted chilled carts to cold room CR1 before break.
+3.2 Frozen goods are picked last, immediately before the cart reaches the packing cold dock.
+
+4. QUALITY CHECKS DURING PICKING
+4.1 Check date codes on every pick. Do not pick stock with less than 2 days shelf life remaining for standard orders, or less than 5 days for export orders.
+4.2 Damaged or leaking units must be placed in the discard trolley, never back on the shelf.
+
+5. SHORT PICKS AND OOS
+5.1 When an item is out of stock, mark the order line out-of-stock in the system. The order will be re-released by planning. Do not hold the cart waiting for replenishment.

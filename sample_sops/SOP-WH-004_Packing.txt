@@ -1,0 +1,21 @@
+SOP-WH-004: PACKING AND LABELLING PROCEDURE
+Version: 2.0
+Effective Date: 2026-07-15
+
+1. PURPOSE
+This procedure defines packing standards and label verification before cartons leave the packing area.
+
+2. CARTON SELECTION
+2.1 Use the carton size proposed by the system. If the proposed size is unavailable, use the next larger size with void fill; never force items into a smaller carton.
+2.2 Chilled orders must use insulated cartons with two gel packs. Frozen orders use insulated cartons with dry ice, handled only by trained staff.
+
+3. LABEL VERIFICATION
+3.1 Scan every carton label before sealing. The system must confirm the carton contents match the order.
+3.2 Export orders require the shipping mark label in addition to the standard carton label. Missing shipping marks must be reported to the export desk before sealing.
+
+4. SEALING AND STAGING
+4.1 Apply tape in an H pattern for cartons above 5 kg.
+4.2 Stage sealed cartons on the outbound lane matching the delivery route. Cartons staged on the wrong lane must be moved within 15 minutes.
+
+5. WEIGHT CHECK
+5.1 Cartons are weighed automatically at the lane exit. A variance above 5 percent from the expected weight blocks the carton and requires repacking.

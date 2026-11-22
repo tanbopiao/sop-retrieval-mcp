@@ -1,0 +1,22 @@
+SOP-WH-002: PUTAWAY PROCEDURE
+Version: 1.4
+Effective Date: 2026-08-10
+
+1. PURPOSE
+This procedure covers movement of received goods from the receiving staging lane to their storage locations.
+
+2. TASK ASSIGNMENT
+2.1 Putaway tasks are assigned by the system in the putaway queue. Operators must work tasks in the sequence displayed.
+2.2 Do not put away goods that show a red DAMAGE tag. Route them to the damage review area Q3 instead.
+
+3. LOCATION RULES
+3.1 Chilled goods must be placed in cold rooms CR1 or CR2 only. Never stage chilled goods at ambient locations, even temporarily.
+3.2 Heavy items above 15 kg per carton must go to ground-level locations (aisles A and B, levels 1-2).
+3.3 Fast-moving SKUs flagged with a yellow location label must be placed in pick faces facing aisle C.
+
+4. CONFIRMATION
+4.1 Scan the pallet label and the location label to confirm putaway in the system.
+4.2 If the system proposes a location that is full, request an alternative from the shift supervisor. Do not place goods in an unassigned location.
+
+5. EXCEPTIONS
+5.1 Mixed pallets discovered during putaway must be split at the rework bench R2 before storage.

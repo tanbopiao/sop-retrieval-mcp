@@ -1,0 +1,22 @@
+SOP-WH-005: DISPATCH AND LOADING PROCEDURE
+Version: 2.2
+Effective Date: 2026-09-20
+
+1. PURPOSE
+This procedure defines the checks and actions required before goods leave the warehouse on outbound vehicles.
+
+2. BEFORE LOADING
+2.1 Verify the vehicle temperature is at range before loading chilled or frozen orders. Chilled: 2 to 8 degrees Celsius. Frozen: minus 18 degrees Celsius or below.
+2.2 Confirm the route manifest matches the vehicle number. Loading against the wrong manifest is a critical error and must be reported the same day.
+
+3. LOADING SEQUENCE
+3.1 Load in reverse drop order: the last delivery is loaded first.
+3.2 Heavy cartons on the floor, light cartons on top. Do not stack above the load line marked inside the vehicle.
+3.3 Seal the vehicle after loading and record the seal number on the manifest.
+
+4. PRE-DEPARTURE CHECKS
+4.1 The dispatcher must confirm all cartons on the manifest are loaded. Any missing carton blocks departure until located.
+4.2 Hand the driver the signed manifest and the temperature log printout for chilled loads.
+
+5. WHAT MUST BE CHECKED BEFORE DISPATCHING GOODS - SUMMARY
+Before dispatching goods, the operator must verify: vehicle temperature at range, route manifest matches the vehicle, all cartons loaded, seal applied and recorded, and driver documentation handed over. Dispatch is not permitted with any open food-safety hold or quality hold flag on the order.

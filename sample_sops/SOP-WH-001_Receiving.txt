@@ -1,0 +1,25 @@
+SOP-WH-001: WAREHOUSE RECEIVING PROCEDURE
+Version: 2.3
+Effective Date: 2026-09-01
+Supersedes: Version 2.2 dated 2026-03-15
+
+1. PURPOSE
+This procedure defines the steps warehouse operators must follow when receiving inbound goods at the distribution centre.
+
+2. BEFORE UNLOADING
+2.1 Verify the delivery vehicle seal number against the advance shipping notice (ASN). If the seal number does not match, do not unload. Photograph the seal and notify the shift supervisor immediately.
+2.2 Confirm the dock assignment on the dock schedule board. Receiving is only permitted at docks D1 through D4.
+2.3 Check the temperature recorder if the shipment is chilled or frozen. Reject the delivery if the reading exceeds 8 degrees Celsius for chilled goods.
+
+3. UNLOADING AND CHECKING
+3.1 Unload pallets one at a time and stage them in the receiving staging lane marked RECEIVING-A.
+3.2 Count cartons against the packing list before signing the driver's paperwork. Discrepancies of more than two cartons must be recorded on the delivery discrepancy form DD-04.
+3.3 Inspect for damage. Damaged cartons must be separated, labelled with a red DAMAGE tag, and photographed before the driver leaves.
+
+4. SYSTEM ENTRY
+4.1 Enter the receipt into the warehouse system within 2 hours of unloading completion.
+4.2 Attach the signed packing list scan to the receipt record. Receipts without an attached packing list are not eligible for putaway.
+
+5. SIGN-OFF
+5.1 The receiving operator signs the delivery note and retains the yellow copy.
+5.2 The white copy travels with the goods to putaway.

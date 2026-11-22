@@ -1,0 +1,19 @@
+SOP-WH-006: CUSTOMER RETURNS PROCEDURE
+Version: 1.2
+Effective Date: 2026-06-30
+
+1. PURPOSE
+This procedure covers receiving, assessing and dispositioning customer returns.
+
+2. RECEIVING RETURNS
+2.1 Returns arrive at dock D6 only. Do not accept returns at receiving docks D1 to D4.
+2.2 Record the return authorisation number (RA number) with every return. Returns without an RA number are logged as unauthorised and stored in quarantine area Q1.
+
+3. QUALITY ASSESSMENT
+3.1 Assess each returned item within 1 working day: grade A (resalable), grade B (damage or short date, salvage), grade C (destroy).
+3.2 Chilled returns that have been out of temperature control for more than 4 hours are automatically grade C.
+
+4. DISPOSITION
+4.1 Grade A returns go back to pick faces if shelf life allows; otherwise to the returns storage rack.
+4.2 Grade C items must be destroyed with a witness signature and a destruction record DR-11.
+4.3 Credits are issued only after the quality assessment is recorded in the system.

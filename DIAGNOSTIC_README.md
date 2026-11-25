@@ -39,7 +39,19 @@ python tools/diagnose_cli.py <folder> \
     --data-dir ./my-diag-data \      # where the local index is stored
     --report-dir ./my-reports \      # where reports are written
     --stale-months 12                # staleness threshold
+python tools/diagnose_cli.py <folder> \
+    --compare my-reports/diagnosis_report.json
+                                     # diff with a previous run: new/resolved/persisting
 ```
+
+## Fix verification: finding IDs and before/after comparison
+
+Every finding carries a stable ID (e.g. `SOP-META-MISSING:<doc>`,
+`SOP-COVERAGE-GAP:<topic>`, `SOP-VERSION-CONFLICT:<family>`) and a rough
+self-fix effort estimate in person-hours. After fixing, re-run with
+`--compare` against the previous JSON report: the report lists **resolved**,
+**new**, **severity changes** and **persisting** findings. Use "high N→0"
+as the acceptance criterion instead of a gut feeling.
 
 ## Sharing the report
 

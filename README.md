@@ -1,4 +1,124 @@
-{"name":"README.md","path":"README.md","sha":"1fb645d066a47f70267a7c298a9f4476ec0400dd","size":3607,"url":"https://api.github.com/repos/tanbopiao/sop-retrieval-mcp/contents/README.md?ref=main","html_url":"https://github.com/tanbopiao/sop-retrieval-mcp/blob/main/README.md","git_url":"https://api.github.com/repos/tanbopiao/sop-retrieval-mcp/git/blobs/1fb645d066a47f70267a7c298a9f4476ec0400dd","download_url":"https://raw.githubusercontent.com/tanbopiao/sop-retrieval-mcp/main/README.md","type":"file","content":"IyBTT1AgUmV0cmlldmFsIOKAlCBTZWxmLVNlcnZlIFRlc3QgUGFja2FnZQoK\nRXZhbHVhdGUgU09QIHJldHJpZXZhbCBvbiB5b3VyIG93biBkYXRhLCBsb2Nh\nbGx5LiBZb3VyIGRvY3VtZW50cyBuZXZlcgpsZWF2ZSB5b3VyIG1hY2hpbmUu\nCgojIyBXaGF0IGlzIGluc2lkZQoKLSBgcnVuX3NlcnZlci5weWAg4oCUIHN0\nYXJ0cyB0aGUgTUNQIHNlcnZlciAoc3RkaW8gdHJhbnNwb3J0KQotIGB0b29s\ncy9pbmdlc3RfY2xpLnB5YCDigJQgb25lLWNvbW1hbmQgaW5nZXN0aW9uIG9m\nIHlvdXIgU09QIGZvbGRlcgotIGBzYW1wbGVfc29wcy9gIOKAlCBzaXggc2Ft\ncGxlIHdhcmVob3VzZSBTT1BzIHRvIHRyeSBpbW1lZGlhdGVseQotIGBzb3Bf\nbWNwL2Ag4oCUIHNlcnZlciBjb2RlIChQREYvRE9DWC90ZXh0IGluZ2VzdGlv\nbiwgcHVyZS1QeXRob24gcmV0cmlldmFsKQotIGBTQ09QRS5tZGAg4oCUIHdo\nYXQgdGhpcyBwYWNrYWdlIGRvZXMgYW5kIGRvZXMgbm90IGRvIChyZWFkIGZp\ncnN0KQoKIyMgUmVxdWlyZW1lbnRzCgotIFB5dGhvbiAzLjEwKwotIGBwaXAg\naW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0YCAoaW5zdGFsbHMgdGhlIGBt\nY3BgIHBhY2thZ2Ugb25seSkKCiMjIFF1aWNrIHN0YXJ0ICgzIHN0ZXBzKQoK\nMS4gKipJbmdlc3QgeW91ciBkb2N1bWVudHMqKgoKICAgYGBgYmFzaAogICBw\neXRob24gdG9vbHMvaW5nZXN0X2NsaS5weSAvcGF0aC90by95b3VyL3NvcC9m\nb2xkZXIKICAgYGBgCgogICBTdXBwb3J0ZWQgZmlsZSB0eXBlczogYC5wZGZg\nLCBgLmRvY3hgLCBgLnR4dGAsIGAubWRgLCBgLmNzdmAsIGAuanNvbmAsIGAu\nbG9nYC4KICAgUmUtcnVubmluZyBpcyBzYWZlIOKAlCB1bmNoYW5nZWQgZmls\nZXMgYXJlIHNraXBwZWQuCgoyLiAqKlN0YXJ0IHRoZSBNQ1Agc2VydmVyKioK\nCiAgIGBgYGJhc2gKICAgcHl0aG9uIHJ1bl9zZXJ2ZXIucHkKICAgYGBgCgoz\nLiAqKkNvbm5lY3QgZnJvbSBhbnkgTUNQIGNsaWVudCoqIChDbGF1ZGUgRGVz\na3RvcCwgQ3Vyc29yLCBldGMuKSB3aXRoCiAgIHRoaXMgY29uZmlndXJhdGlv\nbjoKCiAgIGBgYGpzb24KICAgewogICAgICJtY3BTZXJ2ZXJzIjogewogICAg\nICAgInNvcC1yZXRyaWV2YWwiOiB7CiAgICAgICAgICJjb21tYW5kIjogInB5\ndGhvbiIsCiAgICAgICAgICJhcmdzIjogWyIvZnVsbC9wYXRoL3RvL3RoaXMv\nZm9sZGVyL3J1bl9zZXJ2ZXIucHkiXQogICAgICAgfQogICAgIH0KICAgfQog\nICBgYGAKClRoZW4gYXNrIHF1ZXN0aW9ucyBsaWtlOgoKLSAiV2hhdCBtdXN0\nIGJlIGNoZWNrZWQgYmVmb3JlIGRpc3BhdGNoaW5nIGdvb2RzPyIKLSAiV2hh\ndCBkbyBJIGRvIGlmIHRoZSB2ZWhpY2xlIHNlYWwgbnVtYmVyIGRvZXMgbm90\nIG1hdGNoPyIKLSAiV2hlcmUgZG8gZGFtYWdlZCBjYXJ0b25zIGdvIGR1cmlu\nZyBwdXRhd2F5PyIKCkV2ZXJ5IGFuc3dlciBjb21lcyBiYWNrIHdpdGggaXRz\nICoqc291cmNlKio6IGRvY3VtZW50IG5hbWUsIHZlcnNpb24sCmFuZCBzZWN0\naW9uIOKAlCBzbyBhbiBvcGVyYXRvciBjYW4gdmVyaWZ5IGJlZm9yZSBhY3Rp\nbmcuCgojIyBUb29scyBwcm92aWRlZCBieSB0aGUgc2VydmVyCgp8IFRvb2wg\nfCBXaGF0IGl0IGRvZXMgfAp8LS0tfC0tLXwKfCBgaW5nZXN0X2RvY3VtZW50\ncyhmb2xkZXJfcGF0aClgIHwgTG9hZCBTT1AgZmlsZXMgaW50byB0aGUgaW5k\nZXggfAp8IGBzZWFyY2hfcHJvY2VkdXJlKHF1ZXJ5LCB0b3BfaylgIHwgUmV0\ncmlldmUgdGhlIHJpZ2h0IHByb2NlZHVyZSBwYXNzYWdlIHdpdGggc291cmNl\nIHwKfCBgbGlzdF9kb2N1bWVudHMoKWAgfCBTaG93IGxvYWRlZCBkb2N1bWVu\ndHMgYW5kIGRldGVjdGVkIHZlcnNpb25zIHwKfCBgY2hlY2tfdmVyc2lvbnMo\nKWAgfCBGbGFnIG11bHRpcGxlIHZlcnNpb25zIG9mIHRoZSBzYW1lIHByb2Nl\nZHVyZSB8CnwgYHRyaWFsX3N0YXR1cygpYCB8IFNob3cgZXZhbHVhdGlvbiBw\nZXJpb2Qgc3RhdHVzIHwKCiMjIFZlcnNpb24gaGFuZGxpbmcKCklmIHR3byB2\nZXJzaW9ucyBvZiB0aGUgc2FtZSBwcm9jZWR1cmUgYXJlIGxvYWRlZCAoZS5n\nLgpgU09QLVdILTAwM19QaWNraW5nX3YzLjAudHh0YCBhbmQgYFNPUC1XSC0w\nMDNfUGlja2luZ192My4xLnR4dGApLApgc2VhcmNoX3Byb2NlZHVyZWAgcHJl\nZmVycyB0aGUgaGlnaGVzdCB2ZXJzaW9uIGFuZCBmbGFncyB0aGUgY29uZmxp\nY3QKdmlhIGBjaGVja192ZXJzaW9ucygpYC4KCiMjIEV2YWx1YXRpb24gcGVy\naW9kCgpGcmVlIGZvciAzMCBkYXlzIGZyb20gZmlyc3QgcnVuLCB1bmxpbWl0\nZWQgZG9jdW1lbnRzLiBGb3IgdGhlIG1hbmFnZWQKcHJvZHVjdGlvbiB2ZXJz\naW9uIChpbnRlZ3JhdGlvbiB3aXRoIHlvdXIgRVJQL0FJIHN5c3RlbXMsIGhv\nc3RlZAppbmRleGluZywgbXVsdGktc2l0ZSBzdXBwb3J0KSwgY29udGFjdCB1\ncy4KCiMjIFNjb3BlCgpSZWFkIGBTQ09QRS5tZGAgYmVmb3JlIGV2YWx1YXRp\nbmc6IGl0IGxpc3RzIGV4YWN0bHkgd2hhdCB0aGlzIHBhY2thZ2UKZG9lcywg\nd2hhdCBpdCBkb2VzIG5vdCBkbywgYW5kIHdoYXQgaXMgb3V0IG9mIHNjb3Bl\nLiBOb3RoaW5nIGJleW9uZAp0aGF0IHNjb3BlIGlzIHByb21pc2VkLgoKIyMg\nVHJvdWJsZXNob290aW5nCgotICoqInVuc3VwcG9ydGVkIHR5cGUiIHdoZW4g\naW5nZXN0aW5nKiog4oCUIHRoZSBmaWxlIGV4dGVuc2lvbiBpcyBub3QgaW4K\nICB0aGUgc3VwcG9ydGVkIGxpc3QuIENvbnZlcnQgaXQgdG8gUERGLCBET0NY\nIG9yIHBsYWluIHRleHQuCi0gKipQREYgaW5nZXN0cyBidXQgY29udGVudCBs\nb29rcyB3cm9uZyoqIOKAlCB0aGUgUERGIG1heSBiZSBhIHNjYW4KICB3aXRo\nb3V0IGEgdGV4dCBsYXllci4gU0NPUEUubWQgY292ZXJzIHRoaXMgbGltaXQ7\nIHVzZSB0ZXh0LWJhc2VkCiAgUERGcyBvciBET0NYLgotICoqQW5zd2VycyBj\naXRlIGFuIG9sZCB2ZXJzaW9uKiog4oCUIHJ1biBgY2hlY2tfdmVyc2lvbnMo\nKWA7IGlmIHNldmVyYWwKICB2ZXJzaW9ucyBvZiBvbmUgcHJvY2VkdXJlIGFy\nZSBsb2FkZWQsIHJlbW92ZSB0aGUgb3V0ZGF0ZWQgZmlsZXMgYW5kCiAgcmUt\naW5nZXN0LgotICoqTUNQIGNsaWVudCBjYW5ub3QgY29ubmVjdCoqIOKAlCBt\nYWtlIHN1cmUgdGhlIGBhcmdzYCBwYXRoIGluIHlvdXIKICBjbGllbnQgY29u\nZmlnIGlzIHRoZSBhYnNvbHV0ZSBwYXRoIHRvIGBydW5fc2VydmVyLnB5YCwg\nYW5kIHRoYXQKICBgcHl0aG9uYCByZXNvbHZlcyB0byBQeXRob24gMy4xMCsu\nCgojIyBNb3JlIGZyb20gdXMKClRoaXMgcGFja2FnZSBpcyBvbmUgcGllY2Ug\nb2YgYSBicm9hZGVyIHZlcmlmaWFibGUtYWdlbnQgdG9vbGtpdC4gVGhlIG9m\nZmljaWFsCnNpdGUg4oCUIHdpdGggdGhlIGZ1bGwgd29ya3MgY2F0YWxvZyBh\nbmQgYmFja2dyb3VuZCDigJQgbGl2ZXMgYXQKW2h1b2RvdWFpLmNvbV0oaHR0\ncHM6Ly93d3cuaHVvZG91YWkuY29tL3dvcmtzL3NvcC1tY3AtdGVzdC12MC4x\nLmh0bWwpLgoKIyMgTGljZW5zZQoKTUlUIOKAlCBzZWUgW0xJQ0VOU0VdKExJ\nQ0VOU0UpLiBUaGUgZXZhbHVhdGlvbi1wZXJpb2QgdGVybXMgaW4gU0NPUEUu\nbWQgYXBwbHkgb24KdG9wIG9mIGl0IGZvciB0aGUgdHJpYWwgZ2F0ZTsgdGhl\nIG1hbmFnZWQgcHJvZHVjdGlvbiB2ZXJzaW9uIGlzIGxpY2Vuc2VkCnNlcGFy\nYXRlbHkuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tanbopiao/sop-retrieval-mcp/contents/README.md?ref=main","git":"https://api.github.com/repos/tanbopiao/sop-retrieval-mcp/git/blobs/1fb645d066a47f70267a7c298a9f4476ec0400dd","html":"https://github.com/tanbopiao/sop-retrieval-mcp/blob/main/README.md"}}
+# SOP Retrieval — Self-Serve Test Package
+
+Evaluate SOP retrieval on your own data, locally. Your documents never
+leave your machine.
+
+## What is inside
+
+- `run_server.py` — starts the MCP server (stdio transport)
+- `tools/ingest_cli.py` — one-command ingestion of your SOP folder
+- `sample_sops/` — six sample warehouse SOPs to try immediately
+- `sop_mcp/` — server code (PDF/DOCX/text ingestion, pure-Python retrieval)
+- `SCOPE.md` — what this package does and does not do (read first)
+
+## Requirements
+
+- Python 3.10+
+- `pip install -r requirements.txt` (installs the `mcp` package only)
+
+## Quick start (3 steps)
+
+1. **Ingest your documents**
+
+   ```bash
+   python tools/ingest_cli.py /path/to/your/sop/folder
+   ```
+
+   Supported file types: `.pdf`, `.docx`, `.txt`, `.md`, `.csv`, `.json`, `.log`.
+   Re-running is safe — unchanged files are skipped.
+
+2. **Start the MCP server**
+
+   ```bash
+   python run_server.py
+   ```
+
+3. **Connect from any MCP client** (Claude Desktop, Cursor, etc.) with
+   this configuration:
+
+   ```json
+   {
+     "mcpServers": {
+       "sop-retrieval": {
+         "command": "python",
+         "args": ["/full/path/to/this/folder/run_server.py"]
+       }
+     }
+   }
+   ```
+
+Then ask questions like:
+
+- "What must be checked before dispatching goods?"
+- "What do I do if the vehicle seal number does not match?"
+- "Where do damaged cartons go during putaway?"
+
+Every answer comes back with its **source**: document name, version,
+and section — so an operator can verify before acting.
+
+## Tools provided by the server
+
+| Tool | What it does |
+|---|---|
+| `ingest_documents(folder_path)` | Load SOP files into the index |
+| `search_procedure(query, top_k)` | Retrieve the right procedure passage with source |
+| `list_documents()` | Show loaded documents and detected versions |
+| `check_versions()` | Flag multiple versions of the same procedure |
+| `trial_status()` | Show evaluation period status |
+
+## Version handling
+
+If two versions of the same procedure are loaded (e.g.
+`SOP-WH-003_Picking_v3.0.txt` and `SOP-WH-003_Picking_v3.1.txt`),
+`search_procedure` prefers the highest version and flags the conflict
+via `check_versions()`.
+
+## Evaluation period
+
+Free for 30 days from first run, unlimited documents. For the managed
+production version (integration with your ERP/AI systems, hosted
+indexing, multi-site support), contact us.
+
+## Scope
+
+Read `SCOPE.md` before evaluating: it lists exactly what this package
+does, what it does not do, and what is out of scope. Nothing beyond
+that scope is promised.
+
+## Troubleshooting
+
+- **"unsupported type" when ingesting** — the file extension is not in
+  the supported list. Convert it to PDF, DOCX or plain text.
+- **PDF ingests but content looks wrong** — the PDF may be a scan
+  without a text layer. SCOPE.md covers this limit; use text-based
+  PDFs or DOCX.
+- **Answers cite an old version** — run `check_versions()`; if several
+  versions of one procedure are loaded, remove the outdated files and
+  re-ingest.
+- **MCP client cannot connect** — make sure the `args` path in your
+  client config is the absolute path to `run_server.py`, and that
+  `python` resolves to Python 3.10+.
+
+## More from us
+
+This package is one piece of a broader verifiable-agent toolkit. The official
+site — with the full works catalog and background — lives at
+[huodouai.com](https://www.huodouai.com/works/sop-mcp-test-v0.1.html).
+
+## License
+
+MIT — see [LICENSE](LICENSE). The evaluation-period terms in SCOPE.md apply on
+top of it for the trial gate; the managed production version is licensed
+separately.
+
+## Offline diagnostic CLI
+
+Prefer a one-shot health check over running the MCP server? Use the
+diagnostic CLI — it ingests a folder of SOPs and reports version conflicts,
+missing metadata, stale documents, coverage gaps and a retrieval self-test,
+without any document text leaving your machine. See
+[DIAGNOSTIC_README.md](DIAGNOSTIC_README.md) for the 3-step quick start.
+
 ## 🌐 智能体生态社区
 
 本作品是 [huodouai.com 智能体生态社区](https://www.huodouai.com/agents/) 的一部分——一个智能体自主登记、认领任务、交付留痕的开放社区。

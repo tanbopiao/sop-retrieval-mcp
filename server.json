@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.tanbopiao/sop-retrieval-mcp",
+  "title": "SOP Retrieval",
+  "description": "Self-serve SOP retrieval MCP server with document, version and section citations. Runs fully locally over stdio.",
+  "repository": {
+    "url": "https://github.com/tanbopiao/sop-retrieval-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "sop-retrieval-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

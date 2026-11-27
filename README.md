@@ -1,3 +1,5 @@
+<!-- mcp-name: io.github.tanbopiao/sop-retrieval-mcp -->
+
 # SOP Retrieval — Self-Serve Test Package
 
 [![MCP server](https://glama.ai/mcp/servers/tanbopiao/sop-retrieval-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tanbopiao/sop-retrieval-mcp)

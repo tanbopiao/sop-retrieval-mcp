@@ -22,6 +22,14 @@ leave your machine.
 - Python 3.10+
 - `pip install -r requirements.txt` (installs the `mcp` package only)
 
+## Install from PyPI
+
+```bash
+pip install sop-retrieval-mcp
+```
+
+This installs the `sop-retrieval-mcp` MCP server entrypoint (stdio transport). Listed in the official MCP Registry as `io.github.tanbopiao/sop-retrieval-mcp`. Running from source (below) still works.
+
 ## Quick start (3 steps)
 
 1. **Ingest your documents**

@@ -1,5 +1,7 @@
 # SOP Retrieval — Self-Serve Test Package
 
+[![MCP server](https://glama.ai/mcp/servers/tanbopiao/sop-retrieval-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tanbopiao/sop-retrieval-mcp)
+
 [![M8ven Score](https://m8ven.ai/badge/mcp/tanbopiao-sop-retrieval-mcp-87y9tf?v=a6faf1ff8205ad9c9737d4efd0f6f54f)](https://m8ven.ai/mcp/tanbopiao-sop-retrieval-mcp-87y9tf?s=readme)
 
 Evaluate SOP retrieval on your own data, locally. Your documents never

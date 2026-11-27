@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 sop_index/
 *.log
+dist/
+*.egg-info/
+.venv_test/

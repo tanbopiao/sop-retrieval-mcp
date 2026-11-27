@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sop-retrieval-mcp"
+version = "0.1.0"
+description = "Self-serve SOP retrieval MCP server: ingest local PDF/DOCX/text/Markdown SOPs, answer with document name, version and section citations. Runs fully locally over stdio."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "tanbopiao" }]
+keywords = ["mcp", "rag", "sop", "retrieval", "model-context-protocol"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "mcp>=1.0,<2",
+    "pypdf>=4.0",
+    "python-docx>=1.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/tanbopiao/sop-retrieval-mcp"
+Repository = "https://github.com/tanbopiao/sop-retrieval-mcp"
+Issues = "https://github.com/tanbopiao/sop-retrieval-mcp/issues"
+
+[project.scripts]
+sop-retrieval-mcp = "sop_mcp.server:main"
+
+[tool.setuptools]
+packages = ["sop_mcp"]
+
+[tool.setuptools.package-data]
+# sample SOPs ship with the package for a working out-of-the-box trial
+"sample_sops" = ["**/*"]

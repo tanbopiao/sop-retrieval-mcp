@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1700 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 800 Td
+(SOP-WH-005: DISPATCH AND LOADING PROCEDURE) Tj T*
+(Version: 2.2) Tj T*
+(Effective Date: 2026-09-20) Tj T*
+() Tj T*
+(1. PURPOSE) Tj T*
+(This procedure defines the checks and actions required before goods leave the warehouse on) Tj T*
+(  outbound vehicles.) Tj T*
+() Tj T*
+(2. BEFORE LOADING) Tj T*
+(2.1 Verify the vehicle temperature is at range before loading chilled or frozen orders.) Tj T*
+(  Chilled: 2 to 8 degrees Celsius. Frozen: minus 18 degrees Celsius or below.) Tj T*
+(2.2 Confirm the route manifest matches the vehicle number. Loading against the wrong manifest) Tj T*
+(  is a critical error and must be reported the same day.) Tj T*
+() Tj T*
+(3. LOADING SEQUENCE) Tj T*
+(3.1 Load in reverse drop order: the last delivery is loaded first.) Tj T*
+(3.2 Heavy cartons on the floor, light cartons on top. Do not stack above the load line marked) Tj T*
+(  inside the vehicle.) Tj T*
+(3.3 Seal the vehicle after loading and record the seal number on the manifest.) Tj T*
+() Tj T*
+(4. PRE-DEPARTURE CHECKS) Tj T*
+(4.1 The dispatcher must confirm all cartons on the manifest are loaded. Any missing carton) Tj T*
+(  blocks departure until located.) Tj T*
+(4.2 Hand the driver the signed manifest and the temperature log printout for chilled loads.) Tj T*
+() Tj T*
+(5. WHAT MUST BE CHECKED BEFORE DISPATCHING GOODS - SUMMARY) Tj T*
+(Before dispatching goods, the operator must verify: vehicle temperature at range, route) Tj T*
+(  manifest matches the vehicle, all cartons loaded, seal applied and recorded, and driver) Tj T*
+(  documentation handed over. Dispatch is not permitted with any open food-safety hold or) Tj T*
+(  quality hold flag on the order.) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2063
+%%EOF

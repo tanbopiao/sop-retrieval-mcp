@@ -1,5 +1,7 @@
 # SOP Retrieval — Self-Serve Test Package
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/tanbopiao/sop-retrieval-mcp)](https://m8ven.ai/mcp/tanbopiao/sop-retrieval-mcp?s=readme)
+
 Evaluate SOP retrieval on your own data, locally. Your documents never
 leave your machine.
 

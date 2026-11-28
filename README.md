@@ -119,6 +119,19 @@ This package is one piece of a broader verifiable-agent toolkit. The official
 site — with the full works catalog and background — lives at
 [huodouai.com](https://www.huodouai.com/works/sop-mcp-test-v0.1.html).
 
+## 道统映射表（命名即种子）
+
+索骥——按图索骥：规程检索的本质，是沿着版本这条线索找到当下唯一正确的做法。命名即架构，全仓结构由这个名字生长而来：
+
+| 道统 | 仓内落位 |
+|---|---|
+| 命名即种子：索骥＝按图索骥，按版本线索检索规程 | `sop_mcp/versions.py` 抽取版本/生效日期/替代关系，归并文档族 |
+| 检索可溯源：每条答案必须带出处，操作员先核验再执行 | `retrieval.BM25Index.search` 返回 doc_id/version/section 出处 |
+| 防篡改现形：文件改动即指纹失配，重索引不静默覆盖 | `store.Store` 按 sha256[:12] 指纹跳过未变文件，改动即现形 |
+| 旧版让位：同族多版本并存时，高版本加权靠前并标记冲突 | `search(version_boost=...)` 惩罚旧版，`find_conflicts` 记冲突 |
+| 试用有闸：先试后买，期限与状态可查 | `trial.get_license/check_trial` 30 天评估闸 |
+| 回归铁律：改动后历史用例必须全绿 | `tests/test_sop_mcp.py` 16 例五域回归＋`tests/regression.md` |
+
 ## License
 
 MIT — see [LICENSE](LICENSE). The evaluation-period terms in SCOPE.md apply on
